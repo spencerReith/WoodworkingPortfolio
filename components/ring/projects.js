@@ -16,7 +16,7 @@ export const PROJECTS = [
   {
     file: "adirondack-1.webp",
     name: "Adirondack Chair 1",
-    type: "Placeholder",
+    type: "Pine",
     year: "2026",
     media: [
       {
@@ -27,24 +27,20 @@ export const PROJECTS = [
     ],
     insights: [
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Plans",
+        text: "Norm Abram's plans for a tradional adirondack chair.",
       },
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Wood",
+        text: "Eastern White Pine.",
       },
     ],
-    blurb: "Placeholder: a sentence or two about this piece.",
+    // blurb: "Placeholder: a sentence or two about this piece.",
   },
   {
     file: "adirondack-2.webp",
     name: "Adirondack Chair 2",
-    type: "Placeholder",
+    type: "Pine",
     year: "2026",
     media: [
       {
@@ -55,24 +51,20 @@ export const PROJECTS = [
     ],
     insights: [
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Info",
+        text: "The second of this model adirondack chair I made this spring. Third lifetime.",
       },
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Wood",
+        text: "Eastern White Pine.",
       },
     ],
-    blurb: "Placeholder: a sentence or two about this piece.",
+    // blurb: "Placeholder: a sentence or two about this piece.",
   },
   {
     file: "cuttingboard-2.webp",
-    name: "Cuttingboard 2",
-    type: "Placeholder",
+    name: "Cherry Cutting Board",
+    type: "Cherry, Walnut, Maple",
     year: "2026",
     media: [
       {
@@ -83,24 +75,20 @@ export const PROJECTS = [
     ],
     insights: [
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Info",
+        text: "Edge-grain cuttingboard with name engraved.",
       },
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Wood",
+        text: "Primarily cherry. One piece of each maple and walnut.",
       },
     ],
-    blurb: "Placeholder: a sentence or two about this piece.",
+    blurb: "Classic butchers-block style cutting board.",
   },
   {
     file: "cuttingboards.webp",
-    name: "Cuttingboards",
-    type: "Placeholder",
+    name: "Walnut Cutting Board and Serving Board",
+    type: "Walnut",
     year: "2026",
     media: [
       {
@@ -116,25 +104,21 @@ export const PROJECTS = [
     ],
     insights: [
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Info",
+        text: "A cuttingboard, and a serving board made from the cuttingboard's scraps ",
       },
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Wood",
+        text: "Primarily walnut, each with a piece of maple.",
       },
     ],
-    blurb: "Placeholder: a sentence or two about this piece.",
+    // blurb: "Placeholder: a sentence or two about this piece.",
   },
   {
     file: "lion-hunt-table.webp",
     name: "Lion Hunt Table",
-    type: "Placeholder",
-    year: "2026",
+    type: "Walnut, Epoxy",
+    year: "2024",
     media: [
       {
         src: "lion-hunt-table-1.webp",
@@ -144,24 +128,20 @@ export const PROJECTS = [
     ],
     insights: [
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Info",
+        text: "Walnut table with epoxy inlay",
       },
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Inlay",
+        text: "Replica of Lion Hunt of Ashurbanipal, made with CNC optimizing software that I wrote.",
       },
     ],
-    blurb: "Placeholder: a sentence or two about this piece.",
+    blurb: "Perhaps an unwise/dangerous use of the electric hand plane in order to level the epoxy without a traditional planer.",
   },
   {
     file: "notebook.webp",
-    name: "Notebook Carved Poster",
-    type: "Placeholder",
+    name: "'The Notebook' Carved Poster",
+    type: "Plywood",
     year: "2026",
     media: [
       {
@@ -172,24 +152,16 @@ export const PROJECTS = [
     ],
     insights: [
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Info",
+        text: "Movie poster of 'The Notebook' carved into plywood and sized down.",
       },
     ],
-    blurb: "Placeholder: a sentence or two about this piece.",
+    blurb: "A great room decoration.",
   },
   {
     file: "walnut-coffee-table.webp",
     name: "Walnut Coffee Table",
-    type: "Placeholder",
+    type: "Walnut",
     year: "2026",
     media: [
       {
@@ -200,19 +172,11 @@ export const PROJECTS = [
     ],
     insights: [
       {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
-      },
-      {
-        title: "Placeholder",
-        text: "Placeholder: a sentence about this piece.",
+        title: "Wood",
+        text: "Walnut",
       },
     ],
-    blurb: "Placeholder: a sentence or two about this piece.",
+    blurb: "My favorite piece that I've ever made.",
   },
 ];
 
