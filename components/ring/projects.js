@@ -49,7 +49,7 @@ export const PROJECTS = [
     media: [
       {
         src: "adirondack-2-1.webp",
-        shape: "port",
+        shape: "land",
         caption: "Placeholder caption",
       },
     ],
@@ -105,7 +105,7 @@ export const PROJECTS = [
     media: [
       {
         src: "cuttingboards-1.webp",
-        shape: "port",
+        shape: "land",
         caption: "Placeholder caption",
       },
       {
@@ -166,7 +166,7 @@ export const PROJECTS = [
     media: [
       {
         src: "notebook-1.webp",
-        shape: "port",
+        shape: "land",
         caption: "Placeholder caption",
       },
     ],
