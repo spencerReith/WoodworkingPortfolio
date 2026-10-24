@@ -133,7 +133,7 @@ export const PROJECTS = [
       },
       {
         title: "Inlay",
-        text: "Replica of the ancient Assyrian Engraving 'Lion Hunt of Ashurbanipal', made with CNC optimizing software that I wrote.",
+        text: "Replica of the ancient Assyrian engraving 'Lion Hunt of Ashurbanipal', made with CNC optimizing software that I wrote.",
       },
     ],
     blurb: "Perhaps an unwise/dangerous use of the electric hand plane in order to level the epoxy without a traditional planer.",
