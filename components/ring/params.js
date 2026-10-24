@@ -148,7 +148,7 @@ export function defaultParams() {
     toneGain: 1,
 
     // -- the intro heading, in the scene ---------------------------------
-    text: "Works '26",
+    text: "Woodworking Portfolio",
     textSize: 41,
     textFont: "PP Neue Montreal",
     // Stands in wherever the heading face is absent — PP Neue Montreal is a

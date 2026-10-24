@@ -129,11 +129,11 @@ export const PROJECTS = [
     insights: [
       {
         title: "Info",
-        text: "Walnut table with epoxy inlay",
+        text: "Walnut table with epoxy inlay.",
       },
       {
         title: "Inlay",
-        text: "Replica of Lion Hunt of Ashurbanipal, made with CNC optimizing software that I wrote.",
+        text: "Replica of the ancient Assyrian Engraving 'Lion Hunt of Ashurbanipal', made with CNC optimizing software that I wrote.",
       },
     ],
     blurb: "Perhaps an unwise/dangerous use of the electric hand plane in order to level the epoxy without a traditional planer.",
@@ -162,7 +162,7 @@ export const PROJECTS = [
     file: "walnut-coffee-table.webp",
     name: "Walnut Coffee Table",
     type: "Walnut",
-    year: "2026",
+    year: "2024",
     media: [
       {
         src: "walnut-coffee-table-1.webp",
@@ -176,7 +176,7 @@ export const PROJECTS = [
         text: "Walnut",
       },
     ],
-    blurb: "My favorite piece that I've ever made.",
+    blurb: "My favorite piece.",
   },
 ];
 

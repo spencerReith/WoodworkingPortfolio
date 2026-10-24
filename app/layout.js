@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Viscose",
+  title: "Woodworking Portfolio",
   description:
     "A portfolio carousel rendered as a single WebGL shader. Cards ride a ring and stretch into threads as they pull apart.",
 };
